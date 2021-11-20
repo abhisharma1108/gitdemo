@@ -1,1 +1,8 @@
+    
 mylogs.log
+/mylogs.log 
+*.log  
+*.cpp
+folderName/ 
+
+
